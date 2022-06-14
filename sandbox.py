@@ -18,3 +18,6 @@ def sub(a, b):
 
 def inutile():
     print ('inutile')
+
+def mul(a, b):
+    return a * b
