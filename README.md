@@ -1,1 +1,3 @@
 # wcs-workshop
+
+BETTER DESCRIPTION
